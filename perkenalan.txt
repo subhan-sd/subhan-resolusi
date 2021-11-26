@@ -21,3 +21,7 @@
   9. Dapat Kerjaan dalam Waktu 2 minggu
   
 --- Alur Waktu ---
+
+  1.Bangun pagi Beres - Beres Rumah.
+  2.Buat 1 Ui Web sederhana dalam waktu 2 Jam 
+  
