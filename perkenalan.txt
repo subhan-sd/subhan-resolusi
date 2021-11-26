@@ -1,9 +1,23 @@
 --- Tekanan Diri ---
 
-hi saya subhan , saya sedang belajar Github
+    hi saya subhan , saya sedang belajar Github
   Saya mempunyai skill html css php js flutter 
   saya belum kerja , dan anak saya 3 minggu lagi lahir
   setidknya saya harus mendapatkan uang dalam waktu 2 minggu 
   sekitar 7,4 jutaan untuk persalinan
   
- --- Tekanan Diri Untuk Bangkit dan Tidak Terpuruk --- <3 ??
+--- Tekanan Diri Untuk Bangkit dan Tidak Terpuruk --- <3 ??
+
+--- Sedang di kejar ---
+
+  1. Github and Git
+  2. 6 Project front-end untuk 6 hari
+  3. 3 Project UI Web untuk waktu 3 hari 
+  4. Pelajari Rest API
+  5. Buat 2 Web menggunakan Rest API
+  6. 1 Project real , berbasis Codeigniter
+  7. Selesai Dalam Waktu 1 Minggu
+  8. Perbaiki Portofolio di Upwork
+  9. Dapat Kerjaan dalam Waktu 2 minggu
+  
+--- Alur Waktu ---
