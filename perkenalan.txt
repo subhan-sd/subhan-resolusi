@@ -22,8 +22,9 @@
   
 --- Alur Waktu ---
 
-  1.Bangun pagi Beres - Beres Rumah.
-  2.Buat 1 Ui Web sederhana dalam waktu 2 Jam 
-  3.Buat 1 web Sederhana Di front-end chaleger 
+  1. Bangun pagi Beres - Beres Rumah.
+  2. Buat 1 Ui Web sederhana dalam waktu 2 Jam 
+  3. Buat 1 web Sederhana Di front-end chaleger 
+  4. Usahakan Selalu di tepati !!
   
   
